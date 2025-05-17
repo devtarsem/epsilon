@@ -1,0 +1,28 @@
+.home{
+    width: 100%;
+    height: 100vh;
+    background-color: var(--color-third);
+}
+.chatsectionwhole{
+    width: 100%;
+    height: 100%;
+    background-color: var(--color-white);
+}
+.top{
+    height: 10vh;
+    border-bottom: 0.1rem solid var(--color-third);
+}
+.chatlist,.chatbox{
+    grid-column: 1/4;
+    width: 100%;
+    height: 90vh;
+    border-right: 0.1rem solid var(--color-third);
+}
+.chatbox{
+    grid-column: 4/10;
+}
+.detail{
+    grid-column: 10/13;
+}
+
+/************ topnav***************/

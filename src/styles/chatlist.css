@@ -1,0 +1,15 @@
+.chatElelemt{
+    border-bottom: 0.1rem solid var(--color-third);
+    background: none;
+    width: 100%;
+    font-family: 'DM Sans';
+    cursor: pointer;
+}
+.chatlist{
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.had2{
+    font-size: 1.4rem;
+    font-weight: 500;
+}

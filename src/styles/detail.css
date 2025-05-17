@@ -1,0 +1,9 @@
+.BLOCK{
+    background-color: var(--color-first);
+    border: none;
+    color: var(--color-white);
+    padding: 1rem;
+    border-radius: 1rem;
+    font-family: 'DM Sans';
+    cursor: pointer;
+}
